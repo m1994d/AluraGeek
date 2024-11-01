@@ -2,7 +2,7 @@
 
 - link do projeto: <a href="---" target="_blank">Ir a la tienda</a>
 
-<img src="https://drive.google.com/uc?export=view&id=1YaAZ03uTzKldWxH1EMTnQYWbghUv1TSf"/>
+<img src=""/>
 
 
 ## Las siguientes tecnologías fueron utilizadas para construir este portafolio:
