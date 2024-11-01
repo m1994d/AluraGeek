@@ -1,4 +1,4 @@
-# Portfólio-Projetos
+# AluraGeek
 
 - link do projeto: <a href="---" target="_blank">Ir a la tienda</a>
 
