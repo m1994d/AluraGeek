@@ -1,6 +1,6 @@
 # AluraGeek
 
-- link del projeto: <a href="https://m1994d.github.io/AluraGeek/" target="_blank">Ir a la tienda</a>
+- link del projecto: <a href="https://m1994d.github.io/AluraGeek/" target="_blank">Ir a la tienda</a>
 
 <img src="![Sin título](https://github.com/user-attachments/assets/432b8c40-899d-4fe7-aa30-a9c1ebfd746b)
 "/>
