@@ -9,7 +9,7 @@
 ## Las siguientes tecnologías fueron utilizadas para construir este portafolio:
 - HTML
 - CSS
-- Javascript
+- JavaScript
 
 ## Notas del proyecto:
 
@@ -18,12 +18,5 @@
 - Accesibilidad
 - Componenciación de páginas
 - Manejo de JSON
-
-### Accesibilidad
-- La accesibilidad sigue casi todos los estándares de la extensión <b>herramienta de evaluación de ondas</b>;
-- Durante el registro del producto es posible insertar el texto Alternativa.
-
-### Plus
-- Creación manual de un deslizador
 
 MadTech.
